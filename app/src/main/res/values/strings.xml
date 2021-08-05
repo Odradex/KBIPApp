@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Колледж Бизнеса и Права</string>
+    <string name="title_journal">Журнал</string>
+    <string name="title_timetable">Расписание</string>
+    <string name="title_profile">Профиль</string>
+    <string name="profileName">Профиль учащегося</string>
+    <string name="saveButton">Сохранить</string>
+    <string name="help_text">Добро пожаловать в приложение "Мой КБиП". \nДанное приложение состоит из 3 разделов: Расписание, Журнал и Профиль.
+
+\n\nРасписание - отображает расписание занятий вашей группы. При первом запуске вам будет предложено выбрать свою группу из списка. При последующих запусках расписание будет загружаться автоматически.
+
+\n\nЖурнал - показывает ваши оценки по проходимым учебным дисциплинам. Для получения доступа к ним введите личные данные в разделе "Профиль". Вход в журнал выполняется автоматически.
+
+\n\nПрофиль - в данном разделе можно изменить данные, которые будут использоваться для входа в журнал.
+
+</string>
+    <string name="input_birthdate">Дата рождения</string>
+    <string name="input_surname">Фамилия</string>
+    <string name="input_group">Группа</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="toast_settings_saved">Данные сохранены</string>
+    <string name="toast_no_connection">Нестабильное соединение. Страница загрузится из кэша.</string>
+</resources>

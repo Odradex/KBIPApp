@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">College of Buisness and Law</string>
+    <string name="title_journal">Gradebook</string>
+    <string name="title_timetable">Schedule</string>
+    <string name="title_profile">Profile</string>
+    <string name="profileName">Student Profile</string>
+    <string name="saveButton">Save</string>
+    <string name="help_text">"Welcome to the My KBiP application. This application consists of 3 sections: Schedule, Gradebook and Profile.   \n\n Schedule - Displays your group's class schedule. On first launch, you will be prompted to select your group from the list. On subsequent launches, the schedule will be loaded automatically.    \n\nGradebook - shows your grades in the academic disciplines. To access them, enter your personal data in the Profile section. Logging in is automatic.    \n\nProfile - in this section you can change the data that will be used to log into the gradebook."</string>
+    <string name="input_birthdate">Birthdate</string>
+    <string name="input_surname">Surname</string>
+    <string name="input_group">Group</string>
+    <string name="welcome">Welcome</string>
+    <string name="toast_settings_saved">Data saved</string>
+    <string name="toast_no_connection">Unstable connection. The page will load from the cache.</string>
+</resources>
